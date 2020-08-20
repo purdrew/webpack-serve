@@ -65,7 +65,7 @@
     "is-plain-obj": "^1.1.0",
     "killable": "^1.0.0",
     "koa": "^2.4.1",
-    "koa-webpack": "^5.1.0",
+    "koa-webpack": "git://github.com/purdrew/koa-webpack#hotClient",
     "loud-rejection": "^1.6.0",
     "mem": "^3.0.0",
     "meow": "^5.0.0",
